@@ -1,0 +1,7 @@
+{
+  "name": "CyberRiskX",
+  "description": "Smarter Cybersecurity Decisions - Business-focused cybersecurity risk decision platform prioritizing vulnerabilities by business impact, attack paths, and ROI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
